@@ -127,6 +127,11 @@ python neural_network/perceptron.py
 
 ## 👤 Autor
 
+**Luis Fernando Alexandre dos Santos**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luisfernando--eng-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/luisfernando-eng)
+[![GitHub](https://img.shields.io/badge/GitHub-luisfernando--eng-181717?style=flat-square&logo=github)](https://github.com/luisfernando-eng)
+
 Desenvolvido como parte da disciplina de **Inteligência Artificial**.
 
 > _"Todos os modelos estão errados, mas alguns são úteis."_ — George Box
